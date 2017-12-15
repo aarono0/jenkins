@@ -1,6 +1,6 @@
 FROM centos7:x86_64
 
-MAINTAINER yanghaiying "haiying5@staff.sina.com.cn"
+MAINTAINER yanghaiying "yhai_ying@163.com"
 
 WORKDIR /home
 
